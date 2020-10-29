@@ -32,11 +32,11 @@ p {
   background-color: var(--primary-color);
   cursor: pointer;
   border-radius: 5px;
-  font-size: 12px;
-  padding: 5px 12px;
+  font-size: 14px;
+  padding: 5px 16px;
 }
 
-currency-img {
+.currency-img {
   width: 150px;
 }
 
